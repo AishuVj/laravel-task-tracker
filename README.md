@@ -30,7 +30,7 @@ This project demonstrates full CRUD functionality with database migrations, vali
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/laravel-task-tracker.git
+git clone https://github.com/AishuVj/laravel-task-tracker.git
 cd laravel-task-tracker
 
 
