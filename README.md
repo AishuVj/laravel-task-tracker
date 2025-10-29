@@ -31,6 +31,7 @@ This project demonstrates full CRUD functionality with database migrations, vali
 1. Clone the repository:
 
 git clone https://github.com/AishuVj/laravel-task-tracker.git
+
 cd laravel-task-tracker
 
 
@@ -87,5 +88,5 @@ Feel free to open issues or submit pull requests to enhance the project.
 This project is open source and available under the MIT License.
 
 
-This project is open source and available under the MIT License.
+
 
