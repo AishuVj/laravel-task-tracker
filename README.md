@@ -14,8 +14,8 @@ This project demonstrates full CRUD functionality with database migrations, vali
 
 ## Screenshots
 
-![Create Task] (images/image2.png)
-![Edit Task] (images/image1.png)
+![Create Task](images/image2.png)
+![Edit Task](images/image1.png)
  
 ## Getting Started
 
