@@ -16,6 +16,9 @@ This project demonstrates full CRUD functionality with database migrations, vali
 
 ![Create Task](images/image2.png)
 ![Edit Task](images/image1.png)
+
+## Live Demo
+[Demo](https://aishuvj.github.io/laravel-task-tracker)
  
 ## Getting Started
 
